@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapelss",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tutmod:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "tutmod:ruby",
+    "count": 9
+  }
+}

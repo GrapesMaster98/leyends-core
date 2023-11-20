@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tutmod:block/ruby_block"
+    }
+  }
+}
