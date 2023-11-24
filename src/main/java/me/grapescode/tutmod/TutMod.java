@@ -22,5 +22,7 @@ public class TutMod implements ModInitializer {
 
 		//Registro bloques
 		ModBlocks.RegisterBlocks();
+
+		LOGGER.info("[LEYENDS CORE] Mod loaded");
 	}
 }

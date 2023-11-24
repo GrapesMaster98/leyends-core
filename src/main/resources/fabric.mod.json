@@ -20,6 +20,9 @@
 		],
 		"client": [
 			"me.grapescode.tutmod.TutModClient"
+		],
+		"fabric-datagen": [
+			"me.grapescode.tutmod.TutModDataGenerator"
 		]
 	},
 	"mixins": [

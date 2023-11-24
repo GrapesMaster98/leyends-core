@@ -1,0 +1,45 @@
+{
+  "tutmod:recipes/misc/raw_ruby": {
+    "criteria": {
+      "has_stone": "2023-11-22 08:36:53 -0600"
+    },
+    "done": true
+  },
+  "tutmod:recipes/building_blocks/ruby": {
+    "criteria": {
+      "has_ruby_block": "2023-11-22 08:36:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-22 08:36:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-11-22 08:37:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-11-22 08:36:54 -0600"
+    },
+    "done": false
+  },
+  "tutmod:recipes/decorations/ruby_block": {
+    "criteria": {
+      "has_ruby": "2023-11-22 08:36:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-11-22 08:36:53 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 3578
+}

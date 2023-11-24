@@ -1,8 +1,19 @@
 {
   "item.tutmod.ruby": "Ruby",
   "item.tutmod.raw_ruby": "Raw Ruby",
+  "item.tutmod.ruby_helmet": "Ruby Helmet",
+  "item.tutmod.ruby_chestplate": "Ruby Chestplate",
+  "item.tutmod.ruby_leggins": "Ruby Leggins",
+  "item.tutmod.ruby_boots": "Ruby Boots",
+
   "itemgroup.ruby": "Ruby Group",
+  "itemgroup.leyendsfood": "Leyends Food",
+
+  "item.tutmod.tomato": "Tomato",
+  "item.tutmod.blueberry": "Blueberry",
 
   "block.tutmod.ruby_block": "Ruby Block",
   "block.tutmod.raw_ruby_block": "Raw Ruby Block"
+
+
 }
